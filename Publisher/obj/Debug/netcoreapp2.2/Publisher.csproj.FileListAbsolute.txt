@@ -1,0 +1,11 @@
+C:\Users\m.akbari\Source\Repos\RedisMessaging\Publisher\obj\Debug\netcoreapp2.2\Publisher.csproj.CoreCompileInputs.cache
+C:\Users\m.akbari\Source\Repos\RedisMessaging\Publisher\obj\Debug\netcoreapp2.2\Publisher.AssemblyInfoInputs.cache
+C:\Users\m.akbari\Source\Repos\RedisMessaging\Publisher\obj\Debug\netcoreapp2.2\Publisher.AssemblyInfo.cs
+C:\Users\m.akbari\Source\Repos\RedisMessaging\Publisher\obj\Debug\netcoreapp2.2\Publisher.csprojAssemblyReference.cache
+C:\Users\m.akbari\Source\Repos\RedisMessaging\Publisher\bin\Debug\netcoreapp2.2\Publisher.deps.json
+C:\Users\m.akbari\Source\Repos\RedisMessaging\Publisher\bin\Debug\netcoreapp2.2\Publisher.runtimeconfig.json
+C:\Users\m.akbari\Source\Repos\RedisMessaging\Publisher\bin\Debug\netcoreapp2.2\Publisher.runtimeconfig.dev.json
+C:\Users\m.akbari\Source\Repos\RedisMessaging\Publisher\bin\Debug\netcoreapp2.2\Publisher.dll
+C:\Users\m.akbari\Source\Repos\RedisMessaging\Publisher\bin\Debug\netcoreapp2.2\Publisher.pdb
+C:\Users\m.akbari\Source\Repos\RedisMessaging\Publisher\obj\Debug\netcoreapp2.2\Publisher.dll
+C:\Users\m.akbari\Source\Repos\RedisMessaging\Publisher\obj\Debug\netcoreapp2.2\Publisher.pdb
